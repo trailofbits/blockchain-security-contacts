@@ -15,6 +15,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Contact | More info |
 | --- | --- | ---- |
 | Arweave | team@arweave.org | | |
+| AquariusCoin | security@aquariuscoin.com |[Source](https://github.com/AquariusNetwork/ARCO) |
 | Bitcoin | security@bitcoincore.org | [Security page](https://bitcoincore.org/en/contact/) |
 | Bitcoin Cash | | |
 | Bitcoin Gold | admin@bitcoingold.org | [Disclosure policy](https://github.com/BTCGPU/dev/blob/master/responsible-disclosure.md) |
@@ -34,8 +35,11 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | IOV | security@iov.one | |
 | Komodo | security@komodoplatform.com | |
 | Litecoin | contact@litecoin.org |  |
+| LanaCoin | security@lanacoin.com |[Source](https://github.com/LanaCoin/lanacoin) |
 | Nem | contact@nem.io | |
 | Neo | contact@neo.org | |
+| Netko | security@netko.tech |[Source](https://github.com/NetkoCoin/netko) |
+| NevaCoin | security@nevacoin.net|[Source](https://github.com/Nevacoin/nevacoin) |
 | Monero | [Multiple](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) | [Bug bounty](https://hackerone.com/monero) |
 | Ontology | contact@ont.io | |
 | POA Core | security@poanetwork.com |[Security page](https://forum.poa.network/c/general/security) |
@@ -44,6 +48,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Sia | hello@sia.tech | |
 | Steem | | |
 | Tezos | security@tezos.com | [Bug bounty](https://tezos.com/bugbounty/) |
+| Tajcoin | security@tajcoin.tech| [Source](https://github.com/Taj-Coin/tajcoin) |
 | Qtum | | |
 | Quorum | quorum_info@jpmorgan.com | |
 | VeChain | | |
