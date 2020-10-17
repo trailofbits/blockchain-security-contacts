@@ -159,6 +159,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | OmiseGO | OMG | [Etherscan](https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07) | | |
 | Orderbook BTC | OBTC | [Etherscan](https://etherscan.io/token/0x76ed39003c6ca656c1f5e5e2524eff03feeb6bfc) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Orderbook USD | OUSD | [Etherscan](https://etherscan.io/token/0xca075cf7496d7fee464ceb98ccfbd3b6408bdf63) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
+| 0xcert | ZXC | [Etherscan](https://etherscan.io/token/0x83e2BE8d114F9661221384B3a50d24B96a5653F5) | security@0xcert.org | |
 | Paypex | PAYX | [Etherscan](https://etherscan.io/token/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4) | contact@paypex.org | |
 | POA20 Bridge| POA20 | [Etherscan](https://etherscan.io/token/0x6758b7d441a9739b98552b373703d8d3d14f9e62) | security@poanetwork.com |[Security page](https://forum.poa.network/c/general/security) |
 | PolySwarm | NCT | [Etherscan](https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1) | security@polyswarm.io | [Security page](https://polyswarm.io/security/) |
@@ -193,6 +194,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | --- | --- |
 | CryptoKitties (CK) | [Etherscan](https://etherscan.io/token/0x06012c8cf97bead5deae237070f9587f8e7a266d) | | |
 | Gods Unchained (GODS) | [Etherscan](https://etherscan.io/token/0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab) | | |
+| Su Squares | [Etherscan](https://etherscan.io/token/0xE9e3F9cfc1A64DFca53614a0182CFAD56c10624F) | Su@TenThousandSu.com | |
 
 ## Exchanges
 
