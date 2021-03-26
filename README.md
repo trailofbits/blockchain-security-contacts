@@ -178,8 +178,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Synths (all flavors) | sUSD, sETH, etc | [Proxy sUSD](https://contracts.synthetix.io/ProxysUSD) | security@synthetix.io | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
 | Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
-| Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
+| Tellor | TRB | [Etherscan](https://etherscan.io/address/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0) | info@tellor.io | |
 | TenX | PAY | [Etherscan](https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280) | team@tenx.tech | |
+| Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
 | TrueUSD | TUSD | [Etherscan](https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e) | hello@trusttoken.com | |
 | USDCoin | USDC | [Etherscan](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) | usdc-security@circle.com | |
 | Veritaseum | VERI | [Etherscan](https://etherscan.io/token/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374) | | |
