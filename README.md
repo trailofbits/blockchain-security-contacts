@@ -136,6 +136,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Holo | HOT | [Etherscan](https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2) | info@holo.host | |
 | Hubiits | HBT | [Etherscan](https://etherscan.io/token/0xdd6c68bb32462e01705011a4e2ad1a60740f217f) | security@hubii.com | |
 | IOST | IOST | [Etherscan](https://etherscan.io/token/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab) | team@iost.io | |
+| Jigstack | STAK | [Etherscan](https://etherscan.io/token/0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13) | hello@jigstack.org | |
 | Kin | KIN | [Etherscan](https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5) |  | |
 | KuCoin Shares | KCS | [Etherscan](https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab) | support@kucoin.com | |
 | Kyber Network | KNC | [Etherscan](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200) | hello@kyber.network | |
